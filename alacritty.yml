@@ -1,3 +1,20 @@
+#
+#  ________ _______
+# |   ___  \ ____  \
+# |  |   \  \    \  \
+# |  |    |  |    |  |
+# |  |___/  /____/  /    Prabesh Maharjan 
+# |   _____/_____  /     https://github.com/Prabesh9 
+# |  |           \  \     
+# |  |            |  |
+# |  |     ______/  / 
+# |__|    /________/  
+#
+#==========================================================
+# i3 config file (customized)
+#
+# Please see https://i3wm.org/docs/userguide.html for a complete reference!
+
 #window:
 #    startup_mode: Fullscreen
 font:
