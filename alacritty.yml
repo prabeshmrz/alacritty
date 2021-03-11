@@ -18,15 +18,14 @@
 #window:
 #    startup_mode: Fullscreen
 font:
-    normal:
-        family: Consolas
-        style: Regular
-    size: 11
+    family: JetBrainsMono Nerd Font
+    style: Regular
+    size: 10
 draw_bold_text_with_bright_colors: true
 colors:
   # Default colors
   primary:
-    background: '0x282c34'
+    background: '0x000000'
     foreground: '0x27e8a7'
 
     # Bright and dim foreground colors
