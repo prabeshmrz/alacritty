@@ -1,14 +1,9 @@
-#
-#  ________ _______
-# |   ___  \ ____  \
-# |  |   \  \    \  \
-# |  |    |  |    |  |
-# |  |___/  /____/  /    Prabesh Maharjan 
-# |   _____/_____  /     https://github.com/Prabesh9 
-# |  |           \  \     
-# |  |            |  |
-# |  |     ______/  / 
-# |__|    /________/  
+#   _____ ____
+#  |  __ \___ \
+#  | |__) |__) |   Prabesh Maharjan
+#  |  ___/|__ <    https://github.com/Prabesh9
+#  | |    ___) |
+#  |_|   |____/
 #
 #==========================================================
 # alacritty config file (customized)
@@ -16,6 +11,7 @@
 
 #window:
 #    startup_mode: Fullscreen
+
 font:
     family: UbuntuMono Nerd Font
     style: Regular
