@@ -68,6 +68,6 @@ schemes:
             white:    '#dedbeb'
 
 # Apply the color scheme.
-colors: *amora_focus
+colors: *gruvbox_material_hard_dark
 
 background_opacity: 0.97
